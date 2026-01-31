@@ -1,1 +1,1 @@
-I am starting my Playwright Automation.
+I am starting my Playwright Automation Class.
